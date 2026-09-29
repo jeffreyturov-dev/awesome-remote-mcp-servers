@@ -1271,7 +1271,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![1cent MCP connector](https://glama.ai/mcp/connectors/ru.maxzoa/1cent/badges/score.svg)](https://glama.ai/mcp/connectors/ru.maxzoa/1cent)
   🔓 - Extract web content and metadata, map site resources and detect page changes; x402 pay-per-call.
 - [Apify Scraping Toolbox](https://apify.com/travelmonitorlab) `https://mcp.apify.com`
-  🔑 - 11 pay-per-event data APIs reachable through the Apify MCP server: Google Maps businesses, TikTok/Instagram/YouTube/LinkedIn profiles, France fuel prices, Google review monitoring with Slack alerts.
+  🔐 - 11 pay-per-event data APIs reachable through the Apify MCP server: Google Maps businesses, TikTok/Instagram/YouTube/LinkedIn profiles, France fuel prices, Google review monitoring with Slack alerts.
 - [Briefing Service](https://briefing-service.wholemind.workers.dev) `https://briefing-service.wholemind.workers.dev/mcp`
   [![Briefing Service MCP connector](https://glama.ai/mcp/connectors/io.github.jshelley/briefings/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jshelley/briefings)
   🔓 - Hourly briefings on AI, markets, sports and world news as JSON or e-ink pages; paid tools via x402.
